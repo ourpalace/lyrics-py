@@ -1,2 +1,2 @@
 # lyrics-py
-Implementation of getting song lyrics without any token
+Implementation of getting song lyrics without any api key
